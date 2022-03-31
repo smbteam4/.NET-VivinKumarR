@@ -1,0 +1,15 @@
+D:\RobotApocalypse\RobotApocalypse_BAL\obj\Debug\net6.0\RobotApocalypse_BAL.csproj.AssemblyReference.cache
+D:\RobotApocalypse\RobotApocalypse_BAL\obj\Debug\net6.0\RobotApocalypse_BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\RobotApocalypse\RobotApocalypse_BAL\obj\Debug\net6.0\RobotApocalypse_BAL.AssemblyInfoInputs.cache
+D:\RobotApocalypse\RobotApocalypse_BAL\obj\Debug\net6.0\RobotApocalypse_BAL.AssemblyInfo.cs
+D:\RobotApocalypse\RobotApocalypse_BAL\obj\Debug\net6.0\RobotApocalypse_BAL.csproj.CoreCompileInputs.cache
+D:\RobotApocalypse\RobotApocalypse_BAL\bin\Debug\net6.0\RobotApocalypse_BAL.deps.json
+D:\RobotApocalypse\RobotApocalypse_BAL\bin\Debug\net6.0\RobotApocalypse_BAL.dll
+D:\RobotApocalypse\RobotApocalypse_BAL\bin\Debug\net6.0\ref\RobotApocalypse_BAL.dll
+D:\RobotApocalypse\RobotApocalypse_BAL\bin\Debug\net6.0\RobotApocalypse_BAL.pdb
+D:\RobotApocalypse\RobotApocalypse_BAL\bin\Debug\net6.0\RobotApocalypse_DAL.dll
+D:\RobotApocalypse\RobotApocalypse_BAL\bin\Debug\net6.0\RobotApocalypse_DAL.pdb
+D:\RobotApocalypse\RobotApocalypse_BAL\obj\Debug\net6.0\RobotApocalypse_BAL.csproj.CopyComplete
+D:\RobotApocalypse\RobotApocalypse_BAL\obj\Debug\net6.0\RobotApocalypse_BAL.dll
+D:\RobotApocalypse\RobotApocalypse_BAL\obj\Debug\net6.0\ref\RobotApocalypse_BAL.dll
+D:\RobotApocalypse\RobotApocalypse_BAL\obj\Debug\net6.0\RobotApocalypse_BAL.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02e874fd-17a3-4039-9ed8-17c2030071ef": {
+      "ProjectGuid": "02e874fd-17a3-4039-9ed8-17c2030071ef",
+      "DisplayName": "RobotApocalypse",
+      "ColorIndex": 0
+    },
+    "aaeadf95-93f0-4e2c-9193-6ff1afafef86": {
+      "ProjectGuid": "aaeadf95-93f0-4e2c-9193-6ff1afafef86",
+      "DisplayName": "RobotApocalypse_BAL",
+      "ColorIndex": 1
+    },
+    "19b4f09a-31fb-4829-a566-5e96d8e6894b": {
+      "ProjectGuid": "19b4f09a-31fb-4829-a566-5e96d8e6894b",
+      "DisplayName": "RobotApocalypse_DAL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
